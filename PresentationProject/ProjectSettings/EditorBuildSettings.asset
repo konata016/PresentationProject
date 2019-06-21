@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Select.unity
+    guid: b221eb4ac4d9ff84595df5059dc48434
+  - enabled: 1
+    path: Assets/Scenes/Move.unity
+    guid: 35d824e1276974a49b7e3001fe86a575
+  - enabled: 1
+    path: Assets/Scenes/TargetPosMove.unity
+    guid: 89d00dfda43401a4780f80daf338419c
+  - enabled: 1
+    path: Assets/Scenes/Instant.unity
+    guid: a753956d941957642a4edc28356e48e9
   m_configObjects: {}
